@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Public Sans', sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2.5rem;
+}
+h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 2rem;
+}
+h4 {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 3.5rem;
+}
+h5 {
+  font-size: 0.875;
+  font-weight: 700;
+  line-height: 3rem;
+}
+
+.lab-1 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1rem;
+}
+.lab-2 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+.lab-3 {
+  font-size: 0.875rem;
+  font-weight: 500;
+  line-height: 1.25rem;
+}
+.lab-4 {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+.lab-5 {
+  font-size: 0.688rem;
+  font-weight: 500;
+  line-height: 1rem;
+}
